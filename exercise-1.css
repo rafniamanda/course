@@ -1,0 +1,93 @@
+body {
+    background-color: #2b2b2b;
+    color: #bbbbbb;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+
+h1 {
+    background-color: #3c3f41;
+    color: #6897bb;
+    text-align: center;
+}
+
+
+h2 {
+    background-color: #3c3f41;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 40px;
+}
+
+.form1 {  
+    text-align: center;
+    color: #cc7832;
+    font-weight: bold;
+}
+
+input {
+    background-color: #cdcdcd;
+    color: black;
+}
+
+.button {
+    margin: 0 auto;
+    padding: 8px 12px;
+    background-color: #cc7832;
+    border: none;
+    font-size: 14px;
+}
+
+button {
+    margin: 0 auto;
+    display: block;
+    padding: 8px 12px;
+    background-color: #cc7832;
+    border: none;
+    font-size: 14px;
+}
+
+
+#result,
+#result-2 {
+    text-align: center;
+    background-color: #3c3f41;
+    color: #e8bf6a;
+    font-size: 25px;
+}
+
+.result {
+    text-align: center;
+    background-color: #3c3f41;
+    color: #e8bf6a;
+    font-size: 25px;
+}
+
+.Next {
+    position: absolute;
+    right: 3%;
+    color: #ffffff;
+    border: solid 2px #ffffff;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.Next:hover {
+    background-color: #ffffff;
+    color: #222;
+}
+
+.back {
+    position: absolute;
+    left: : 3%;
+    color: #ffffff;
+    border: solid 2px #ffffff;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.back:hover {
+    background-color: #ffffff;
+    color: #222;
+}
